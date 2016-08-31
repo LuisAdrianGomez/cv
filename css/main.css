@@ -139,9 +139,9 @@
 }
 
 .img-profile .name-profile{
-   	left: -22%;
+   	left: -19%;
     position: absolute;
-    top: 23.2%;
+    top: 13.2%;
 	-webkit-transform: rotate(-90deg); /* Chrome, Safari, Opera */
     transform: rotate(-90deg);
     -ms-transform: rotate(-90deg);
